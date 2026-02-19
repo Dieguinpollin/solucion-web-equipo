@@ -1,5 +1,7 @@
 Portal de Eventos: "Al Día"
+
 Problemática
+
 Muchos estudiantes pierden fechas de exámenes o eventos por falta de un lugar centralizado con toda la información de la facultad.
 
 Objetivo
