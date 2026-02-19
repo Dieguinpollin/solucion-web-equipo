@@ -1,12 +1,15 @@
 Portal de Adopción "Huellitas Felices"
 
 Problemática
+
 Actualmente, muchos refugios de animales en nuestra zona son muy pequeños y no tienen forma de darse a conocer. Esto causa que mucha gente que quiere una mascota termine comprándola simplemente porque no sabe dónde ir a adoptar o qué animales están buscando un hogar.
 
 Objetivo
+
 El sitio mostrará una lista de los animales que están listos para adopción y tendrá un formulario para que los interesados puedan contactar al refugio de forma rápida.
 
 Roles del equipo
+
 Para este proyecto nos dividimos las tareas de la siguiente forma:
 
 
