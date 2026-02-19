@@ -2,7 +2,7 @@ Portal de Eventos: "Al Día"
 
 Problemática
 
-Muchos estudiantes pierden fechas de exámenes o eventos por falta de un lugar centralizado con toda la información de la facultad.
+Es común que los alumnos olviden fechas clave solo porque no hay un solo lugar donde revisar todo lo que pasa en la facultad. 
 
 Objetivo
 
