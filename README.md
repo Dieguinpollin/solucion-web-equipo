@@ -2,7 +2,7 @@ Portal de Eventos: "Al Día"
 
 Problemática
 
-Muchos estudiantes pierden fechas de exámenes o eventos por falta de un lugar centralizado con toda la información de la facultad.
+Es común que los alumnos olviden fechas clave solo porque no hay un solo lugar donde revisar todo lo que pasa en la facultad. 
 
 Objetivo
 
@@ -12,11 +12,7 @@ Roles del equipo
 
 Project Manager (Diego): Gestión del repo, control de "Issues" y aprobación de los Pull Requests del equipo .
 
-Desarrollador Front 1 (Gael): Creación del calendario (tabla) y la lista de eventos importantes .
-
-
+Desarrollador Front 1 (Gael): Creación del calendatio
 Desarrollador Front 2 (Taylor): Creación del formulario de registro y el pie de página (footer) .
 
-Este sitio web fue desarrollado por Taylor
-
-Conflicto en el repositorio
+Conflicto en el repositorio 
