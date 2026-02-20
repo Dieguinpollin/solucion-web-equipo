@@ -14,6 +14,5 @@ Project Manager (Diego): Gestión del repo, control de "Issues" y aprobación de
 
 Desarrollador Front 1 (Gael): Creación del calendatio
 Desarrollador Front 2 (Taylor): Creación del formulario de registro y el pie de página (footer) .
-dario (tabla) y la lista de eventos importantes .
 
 Conflicto en el repositorio 
