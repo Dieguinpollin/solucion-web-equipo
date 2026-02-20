@@ -12,9 +12,9 @@ Roles del equipo
 
 Project Manager (Diego): Gestión del repo, control de "Issues" y aprobación de los Pull Requests del equipo .
 
-Desarrollador Front 1 (Gael): Creación del calendario (tabla) y la lista de eventos importantes .
-
-
+Desarrollador Front 1 (Gael): Creación del calen
 Desarrollador Front 2 (Taylor): Creación del formulario de registro y el pie de página (footer) .
+dario (tabla) y la lista de eventos importantes .
 
-Conflicto en el repositorio
+
+Conflicto en el repositorio 
