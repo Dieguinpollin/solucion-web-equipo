@@ -17,4 +17,6 @@ Desarrollador Front 1 (Gael): Creación del calendario (tabla) y la lista de eve
 
 Desarrollador Front 2 (Taylor): Creación del formulario de registro y el pie de página (footer) .
 
+Este sitio web fue desarrollado por Taylor
+
 Conflicto en el repositorio
