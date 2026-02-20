@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+    <style>
+        body{
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Registro para proximos eventos</h1>
+    </header>
+    <nav></nav>
+    <main>
+        <form action="otra.html">
+        
+        <label for="nombre">Nombre:</label> <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre" required> <br><br>
+        <label for="matricula">Matricula</label> <input type="text" name="matricula" maxlength="9" placeholder="Ingresa tu matricula" required><br><br>
+        <label for="correo">Correo Institucional</label><input type="email" name="correo" id="correo" placeholder="Ingresa tu correo electronico" required><br><br>
+        <label for="carrera">Selecciona tu carrera: </label> <select name="carrera" id="carrera">
+            <option value="">Ingenieria en Tecnologias de la informacion</option>
+            <option value="">Ingenieria en Ciencias de Datos</option>
+            <option value="">Ingenieria en Ciencias de la computacion</option>
+            <option value="">Licenciatura en Ciencias de la computacion</option>
+            <option value="">Ingenieria en Ciberseguridad</option>
+        </select> <br><br>
+        <label for="evento">Selecciona el evento en el que quieras participar</label>
+        <select name="evento">
+            <option>Conferencia de Tecnología</option>
+            <option>Taller de Programación</option>
+            <option>Evento deportivo</option>
+            <option>Seminario académico</option>
+            <option>Grupos de apoyo psicologico</option>
+        </select> <br><br>
+        <label for="comentario">¿Por qué te interesa este evento?</label>
+        <textarea name="comentario" id="comentario" ></textarea><br>br
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar datos">
+    </form>
+    </main>
+    <footer></footer>
+    
+</body>
+</html>
