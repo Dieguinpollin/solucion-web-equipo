@@ -16,6 +16,4 @@ Desarrollador Front 1 (Gael): Creación del calendatio
 Desarrollador Front 2 (Taylor): Creación del formulario de registro y el pie de página (footer) .
 dario (tabla) y la lista de eventos importantes .
 
-HOLA GAEL HOLA TAYLOR
-
 Conflicto en el repositorio 
