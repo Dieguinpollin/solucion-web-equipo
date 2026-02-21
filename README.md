@@ -45,3 +45,11 @@ Evidencias del Proyecto
 A continuación, se presentan las capturas de pantalla que validan el flujo de trabajo colaborativo y la resolución de conflictos técnicos:
 
 <img src="imagen1.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen2.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen3.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen4.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen5.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen6.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen7.jpg" alt="Evidencia del proyecto" width="500">
+<img src="imagen8.jpg" alt="Evidencia del proyecto" width="500">
+Estos son algunas de capturas de pantalla, si es que se nesecitan, claro para la demostracion del conflicto.
